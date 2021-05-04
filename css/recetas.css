@@ -1,0 +1,393 @@
+@charset "utf-8";
+.bkg_R {
+    background-image: url(https://smartadcenter.com/rp/img/recetas/imghead_recetas.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bkgs03_R{
+    background-image: url(https://smartadcenter.com/rp/img/recetas/imgs03_recetas.jpg);
+    background-position: center;
+    background-size: cover;
+}
+/*Section s01*/
+.s01_R{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+.counter_R{
+    margin: auto;
+    width: 50%;
+}
+.txt1Head_R{
+    width: 100%;
+    margin-top: 3%;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-family: 'Lato';
+    font-weight: 500;
+}
+.txt2Head_R{
+    margin:auto;
+    width: 70%;
+    margin-top: 3%;
+    font-size: 1.1em;
+    color: #fff;
+    font-family: 'Asap';
+    font-weight: 500;
+    text-align: center;
+}
+.CtaHead_R{
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.CtaHead_R .cta{
+    min-width: 110px !important;
+}
+.number-fym{
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.number-fym li{
+    width: 60px;
+    height: 60px;
+    min-width: 60px;
+    max-width: 60px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.number_border{
+    border: 3px solid #fff;
+    font-weight: 900;
+}
+.number_border_on{
+    border: 0px solid #fff;
+    font-weight: 900;
+    width: 60px;
+    height: 60px;
+    min-width: 60px;
+    max-width: 60px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.number_border_on :hover{
+    border: 3px solid #fff;
+    font-weight: 900;
+    width: 60px;
+    height: 60px;
+    min-width: 60px;
+    max-width: 60px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.number-fym li span{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Asap';
+    font-weight: 500;
+    padding: 5%;
+}
+/*Section s03 Recetas*/
+.s03_R{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.s03_R ul{ width: 30%; margin-left: 10%;}
+.txt1_s03_R{
+    font-size: 1em;
+    color: #002270;
+    font-family: 'Lato';
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.icon_s03_R{
+    margin-right: 10px;
+    padding: 10px;
+    max-width: 30px;
+    min-width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #002270;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon_s03_R img{
+    width: 10px;
+}
+.txt2_s03_R{
+    font-size: 2.3em;
+    color: #fff;
+    font-family: 'Lato';
+    font-weight: 500;
+}
+.txt3_s03_R{
+    font-size: 1em;
+    color: #fff;
+    font-family: 'Lato';
+    font-weight: 500;
+}
+.txt4_s03_R{
+    padding-right: 15%;
+    margin-top: 3%;
+    font-size: 1em;
+    color: #fff;
+    font-family: 'Asap';
+    font-weight: 300; 
+}
+.Ctas03_R{
+    margin-top: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.Ctas03_R .cta{
+    min-width: 120px !important;
+}
+/* Section s04 mgz */
+.s04-mgz{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.text-s04-mgz{
+    text-align: center;
+}
+.text-s04-mgz div{
+    margin:auto;
+    width: 50%;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 1.8em;
+    color: #002270;
+    line-height: 115%;
+    text-transform: uppercase;
+}
+.text-s04-mgz p{
+    margin-top: 1%;
+    margin:auto;
+    width: 50%;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 1.2em;
+    color: #616671;
+    line-height: 115%;
+    text-transform: uppercase;
+}
+.boxForm-mgz{
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boxForm-mgz form{
+    width: 40%;
+}
+/* sectopm redes clonada de home*/
+.txt-redes-mgz{
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.txt-redes-mgz div{
+    margin:auto;
+    width: 100%;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 2.1em;
+    color: #002270;
+    line-height: 115%;
+    text-transform: uppercase;
+}
+.txt-redes-mgz p{
+    margin-top: 2%;
+    width: 50%;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 1.2em;
+    color: #616671;
+    line-height: 115%;
+    text-transform: uppercase;
+}
+
+ 
+/**/
+.resultado ul {
+    padding: 0% !important;
+}
+.title-product-resultado {
+    margin: 1% 0% 0% 0% !important;
+    padding: 0px 10px 0px 10px !important;
+}
+.detail-product-resultado {
+    padding: 0px 10px 0px 10px !important;
+}
+.info-product-resultado {
+    margin: 1% 0% 0% 0% !important;
+    padding: 0px 10px 0px 10px !important;
+}
+.zoom-product-resultado {
+    padding: 0px 10px 0px 10px !important;
+}
+.txt-product-resultado{
+    padding: 0px 10px 0px 10px !important;
+    width: 100%;
+    margin: 7% 0% 0% 0%;
+    font-family: 'Asap', sans-serif;
+    font-weight: 700;
+    font-size: 0.7em;
+    color: #002270;
+}
+.zoom-product-resultado img {
+    width: 10px !important;
+    margin: 5px;
+}
+/* 900px */  
+@media only screen and (max-width: 900px) and (min-width: 600px) {  
+
+    /*s01*/
+    .number-fym {
+        width: 65%;
+        margin: auto;
+    }
+    /*s03*/
+    .bkgs03_R {
+        background-position: 30%;
+    }
+    .s03_R ul {
+        width: 60%;
+        margin-left: 10%;
+    }
+    /*sectori redes clonada de home*/
+    .boxForm-mgz form {
+        width: 85%;
+    }
+    .text-s04-mgz div {
+        margin: auto;
+        width: 80%;
+        font-family: 'Lato';
+        font-weight: 700;
+        font-size: 1.8em;
+        color: #002270;
+        line-height: 115%;
+        text-transform: uppercase;
+    }
+    .text-s04-mgz p {
+        margin-top: 1%;
+        margin: auto;
+        width: 70%;
+        font-family: 'Lato';
+        font-weight: 700;
+        font-size: 1.2em;
+        color: #616671;
+        line-height: 115%;
+        text-transform: uppercase;
+    }
+}
+  
+/* 600px */  
+@media only screen and (max-width: 600px) and (min-width: 200px) {  
+    
+    /*s01*/
+    .s01_R {
+        margin-top: 12%;
+        height: 65vh;
+        margin-bottom: 10%;
+    }
+    .number-fym {
+        width: 80%;
+        margin: auto;
+    }
+    .txt1Head_R {
+        line-height: 105%;
+    }
+    .txt2Head_R {
+        margin: auto;
+        width: 90%;
+        margin-top: 3%;
+        font-size: 1.3em;
+        color: #fff;
+        font-family: 'Asap';
+        font-weight: 500;
+        text-align: center;
+    }
+    /*s03*/
+    .s03_R {
+        height: 45vh;
+    }
+    .bkgs03_R {
+        background-position: 33%;
+    }
+    .s03_R ul {
+        width: 100%;
+        margin-left: 10%;
+    }
+    /*sector redes clonada de home*/
+    .boxForm-mgz form {
+        width: 85%;
+    }
+    .text-s04-mgz div {
+        margin: auto;
+        width: 80%;
+        font-family: 'Lato';
+        font-weight: 700;
+        font-size: 1.5em;
+        color: #002270;
+        line-height: 115%;
+        text-transform: uppercase;
+    }
+    .text-s04-mgz p {
+        margin-top: 1% !important;
+        margin: auto;
+        width: 70%;
+        font-family: 'Lato';
+        font-weight: 700;
+        font-size: 1em;
+        color: #616671;
+        line-height: 115%;
+        text-transform: uppercase;
+    }
+    .txt-redes-mgz p {
+        margin-top: 2%;
+        width: 80%;
+        font-family: 'Lato';
+        font-weight: 700;
+        font-size: 1.2em;
+        color: #616671;
+        line-height: 115%;
+        text-transform: uppercase;
+    }
+    
+} 

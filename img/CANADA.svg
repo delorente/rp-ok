@@ -1,0 +1,21 @@
+<svg id="CANADA" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42.424" height="24.747" viewBox="0 0 42.424 24.747">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_272" data-name="Rectángulo 272" width="42.424" height="24.747" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_222" data-name="Grupo 222">
+    <g id="Grupo_221" data-name="Grupo 221">
+      <g id="Grupo_220" data-name="Grupo 220" clip-path="url(#clip-path)">
+        <rect id="Rectángulo_268" data-name="Rectángulo 268" width="9.98" height="24.747" fill="#ea0020"/>
+        <rect id="Rectángulo_269" data-name="Rectángulo 269" width="9.98" height="24.747" transform="translate(32.444)" fill="#ea0020"/>
+        <rect id="Rectángulo_270" data-name="Rectángulo 270" width="22.464" height="24.747" transform="translate(9.98)" fill="#fff"/>
+        <g id="Grupo_219" data-name="Grupo 219">
+          <g id="Grupo_218" data-name="Grupo 218" clip-path="url(#clip-path)">
+            <path id="Trazado_236" data-name="Trazado 236" d="M1062.056,163.644l-1.473,2.858c-.167.311-.465.279-.766.107l-1.066-.576.794,4.4c.168.8-.368.8-.632.456l-1.859-2.169-.3,1.1a.358.358,0,0,1-.418.26l-2.35-.517.617,2.34c.135.522.235.738-.133.875l-.838.41,4.049,3.426a.564.564,0,0,1,.182.574l-.354,1.212c1.393-.167,2.644-.32,4.035-.488.122,0,.33.11.329.258l-.185,4.437h.679l-.109-4.427c0-.145.187-.268.308-.268,1.4.168,2.645.321,4.039.488l-.358-1.212a.576.576,0,0,1,.186-.574l4.047-3.426-.838-.41c-.369-.137-.265-.353-.134-.875l.62-2.34-2.353.517a.359.359,0,0,1-.417-.26l-.3-1.1-1.86,2.169c-.264.346-.8.346-.632-.456l.792-4.4-1.063.576c-.3.172-.6.2-.765-.107Z" transform="translate(-1040.844 -160.435)" fill="#ea0020"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

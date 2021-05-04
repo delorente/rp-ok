@@ -1,0 +1,456 @@
+@charset "utf-8";
+.bkg_opt {
+    background-image: url(https://smartadcenter.com/rp/img/oportunidad/bkg_oportunidad.png);
+    background-position: center;
+    background-size: cover;
+}
+.bkg_opt_2 {
+    background-image: url(https://smartadcenter.com/rp/img/texture_revert.png);
+    background-position: center;
+    background-size: cover;
+}
+.s01-opt{
+    width: 100%;
+}
+.text-s01-optS01{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.txt-1-optS01{
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Asap';
+    font-size: 0.8em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 102%;
+}
+.txt-2-optS01{
+    width: 80%;
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 3em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 102%;
+}
+.txt-3-optS01{
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Asap';
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #fff;
+    line-height: 102%;
+}
+.cont-cta-optS01{
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.cont-s01-opt{
+    width: 100%;
+    height: 50vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.txt1-cont-s01-opt{
+    margin-top: 3%;
+    width: 60%;
+    font-family: 'Lato';
+    font-size: 1.2em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #868C98;
+}
+.txt2-cont-s01-opt{
+    width: 60%;
+    font-family: 'Lato';
+    font-size: 3em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #002270;
+}
+.txt3-cont-s01-opt{
+    margin-top: 2%;
+    width: 35%;
+    font-family: 'Lato';
+    font-size: 1em;
+    font-weight: 500;
+    color: #191919;
+}
+/*Section s02*/
+.s02-opt{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.s02-opt p{
+    width: 50%;
+    font-family: 'Lato';
+    font-size: 1.3em;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #002270;
+    text-align: center;
+}
+.icons_opt{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon-box{
+    width: 25%;
+}
+.icon-box div{
+    width: 100%;
+    text-align: center;
+}
+.icon-box div img{
+    width: 20%;
+}
+.icon-box-txt{
+    width: 100%;
+    margin-top: 5%;
+    font-family: 'Lato';
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #191919;
+    text-align: center;
+    line-height: 135%;
+}
+/*Section s03*/
+.s03-opt{
+    margin-top: 5%;
+    width: 100%;
+}
+.img-s03{
+    width: 100%;
+}
+.img-s03 img{
+    width: 100%;
+}
+.txt-box-s03{
+    margin: 5% auto auto;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.tit-s03{
+    width: 40%;
+    font-family: 'Lato';
+    font-size: 2em;
+    font-weight: 500;
+    color: #002270;
+}
+.txt-s03{
+    margin-top: 0%;
+    width: 40%;
+    font-family: 'Lato';
+    font-size: 1em;
+    font-weight: 500;
+    color: #191919;
+    line-height: 135%;
+}
+/*Section s04*/
+.s04-opt{
+    width: 100%;
+    margin-top: 10%;
+}
+.s04-opt ul{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.bkg-form{
+    background-image: url(https://smartadcenter.com/rp/img/texture_revert.png);
+    background-position: center;
+    background-size: cover;
+}
+.txt1-s04-opt{
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 2em;
+    font-weight: 500;
+    color: #002270;
+}
+.txt2-s04-opt{
+    margin-top: 1%;
+    font-family: 'Lato';
+    font-size: 1em;
+    font-weight: 700;
+    color: #616671;
+}
+.txt3-s04-opt{
+    margin-top: 1%;
+    font-family: 'Lato';
+    font-size: 0.8em;
+    font-weight: 500;
+    color: #868C98;
+}
+.cont-form-opt{
+    width: 50%;
+    margin: auto;
+}
+.cont-form-opt form{
+    width: 60%;
+    margin: auto;
+}
+.cont-form-opt form .group{
+    width: 100% !important;
+    margin-top: 6% !important;
+    margin: auto;
+}
+.cont-form-opt form .cont-last_imput{
+    width: 100% !important;
+    margin-top: 6% !important;
+    margin: auto;
+}
+.cont-form-opt form .cont-submit{
+    width: 100% !important;
+    margin: auto;
+}
+/* 900px */  
+@media only screen and (max-width: 900px) and (min-width: 600px) {  
+    .colapsed_container {
+        width: 100%;
+    }
+    .icon_subBtn {
+        width: 22%;
+    }
+    .sub_btn_colapsed p {
+        width: 67%;
+    }
+    .arrowDown_subBtn {
+        width: 5%;
+    }
+    .cont-Subacordion_btn2 ul {
+        width: 45%;
+    }
+    .padding-card{
+        padding: 20px!important;
+    }
+    /*s01*/
+    .bkg_opt {
+        background-image: url(https://smartadcenter.com/rp/img/oportunidad/bkg_oportunidad.png);
+        background-position: 46%;
+        background-size: cover;
+    }
+    .txt-2-optS01 {
+        width: 90%;
+        font-size: 2em;
+    }
+    .txt-1-optS01 {
+        margin-top: 25%;
+    }
+    .txt2-cont-s01-opt {
+        width: 90%;
+        line-height: 125%;
+    }
+    .txt3-cont-s01-opt {
+        width: 90%;
+        font-size: 1.3em;
+    }
+    /*s02*/
+    .s02-opt {
+        width: 100%;
+        height: 75vh;
+    }
+    .s02-opt p {
+        width: 90%;
+    }
+    
+    .icons_opt {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .icon-box {
+        width: 60%;
+        margin-top: 5%;
+    }
+    /*s03*/
+    .txt-box-s03 {
+        margin: 5% auto auto;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .tit-s03 {
+        width: 90%;
+    }
+    .txt-s03 {
+        margin-top: 5%;
+        width: 90%;
+    }
+    /*s04*/
+    .s04-opt ul {
+        height: 30vh;
+    }
+    .txt1-s04-opt {
+        text-align: center;
+        font-family: 'Lato';
+        font-size: 2em;
+        font-weight: 500;
+        color: #002270;
+        line-height: 110%;
+    }
+    .txt2-s04-opt {
+        margin-top: 1%;
+        font-family: 'Lato';
+        font-size: 1em;
+        font-weight: 700;
+        color: #616671;
+        width: 80%;
+        text-align: center;
+    }
+    .cont-form-opt {
+        width: 100%;
+        margin: auto;
+    }
+    .cont-form-opt form {
+        width: 75%;
+        margin: auto;
+    }
+}
+  
+/* 600px */  
+@media only screen and (max-width: 600px) and (min-width: 200px) {  
+    .text-s01-opt p {
+        width: 91%;
+        font-size: 2.5em;
+    }
+    .txt-cont-s01-opt {
+        width: 80%;
+        font-size: 1.2em;
+    }
+    /*s01*/
+    .bkg_opt {
+        background-image: url(https://smartadcenter.com/rp/img/oportunidad/bkg_oportunidad.png);
+        background-position: 47%;
+        background-size: cover;
+    }
+    .text-s01-optS01 {
+        height: 115vh;
+    }
+    .txt-2-optS01 {
+        width: 90%;
+        font-size: 1.8em;
+    }
+    .txt-1-optS01 {
+        margin-top: 25%;
+    }
+    .txt2-cont-s01-opt {
+        width: 90%;
+        line-height: 125%;
+        margin-top: 5%;
+        font-size: 1.8em;
+    }
+    .txt3-cont-s01-opt {
+        width: 90%;
+        font-size: 1.1em;
+        margin-top: 5%;
+    }
+    /*s02*/
+    .s02-opt {
+        width: 100%;
+        height: fit-content;
+        justify-content: center;
+        padding: 5% 5%;
+    }
+    .s02-opt p {
+        width: 90%;
+    }
+    
+    .icons_opt {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .icon-box {
+        width: 85%;
+        margin-top: 13%;
+    }
+    /*s03*/
+    .s03-opt {
+        margin-top: 10%;
+        width: 100%;
+    }
+    .txt-box-s03 {
+        margin: 5% auto auto;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .tit-s03 {
+        width: 90%;
+    }
+    .txt-s03 {
+        margin-top: 5%;
+        width: 90%;
+    }
+    /*s04*/
+    .s04-opt ul {
+        height: 45vh;
+    }
+    .txt1-s04-opt {
+        text-align: center;
+        font-family: 'Lato';
+        font-size: 1.5em;
+        font-weight: 500;
+        color: #002270;
+        line-height: 110%;
+    }
+    .txt2-s04-opt {
+        margin-top: 5%;
+        font-family: 'Lato';
+        font-size: 1em;
+        font-weight: 700;
+        color: #616671;
+        width: 80%;
+        text-align: center;
+    }
+    .txt3-s04-opt {
+        margin-top: 5%;
+        font-family: 'Lato';
+        font-size: 0.8em;
+        font-weight: 500;
+        color: #868C98;
+    }
+    .cont-form-opt {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 20%;
+    }
+    .cont-form-opt form {
+        width: 75%;
+        margin: auto;
+    }
+} 

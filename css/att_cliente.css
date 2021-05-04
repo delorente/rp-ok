@@ -1,0 +1,393 @@
+@charset "utf-8";
+.bkg_attCliente {
+    background-image: url(https://smartadcenter.com/rp/img/att_cliente/bkg_att_cliente.png);
+    background-position: center;
+    background-size: cover;
+}
+.bkg_attCliente_2 {
+    background-image: url(https://smartadcenter.com/rp/img/texture_revert.png);
+    background-position: center;
+    background-size: cover;
+}
+.s01-attCliente{
+    width: 100%;
+}
+.text-s01-attCliente{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text-s01-attCliente p{
+    width: 60%;
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 3em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 102%;
+}
+.cont-s01-attCliente{
+    width: 100%;
+    height: 40vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.txt-cont-s01-attCliente{
+    width: 60%;
+    font-family: 'Asap';
+    font-size: 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #868C98;
+}
+.scroll-cont-s01-attCliente{
+    text-align: center;
+}
+.scroll-cont-s01-attCliente p{
+    font-family: 'Asap';
+    font-size: 1.1em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #002270;
+    line-height: 102%;
+}
+.scroll-cont-s01-attCliente img{
+    width: 20px;
+}
+/* Section s02 attCliente */
+.s02-attCliente{
+    width: 100%;
+}
+.colapsed_container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.container_btn-attCliente{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.body-attCliente{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+[id*="heading_"]{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn_attClient{
+    margin-top: 7%;
+    width: 100%;
+    text-align: left;
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 1em;
+    color: #868C98;
+    padding-bottom: 3px;
+    border: none;
+    background: transparent;
+}
+.btn_attClient:focus {
+    outline: 0px dotted !important;
+    outline: 0px auto -webkit-focus-ring-color !important; 
+    font-size: 1.5em;
+    color: #002270;
+    border-bottom: 2px solid #002270;
+}
+
+/************************** Body left contenido /
+
+/* Consejos utiles */
+.cont_intro_subBtn1{
+    width: 100%;
+    padding: 3% 0% 3% 0%;
+}
+.cont_intro_subBtn1 div{
+    width: 100%;
+    font-family: 'Lato';
+    font-size: 1.8em;
+    font-weight: 500;
+    line-height: 102%;
+    color: #002270;
+    text-transform: uppercase;
+}
+.cont_intro_subBtn1 p{
+    margin-top: 2%;
+    width: 100%;
+    font-family: 'Lato';
+    font-weight: 500;
+    line-height: 120%;
+    color: #191919;
+}
+.cont_sub_btn{
+    width: 100%;
+    margin-top: 5%;
+}
+.cont_subBtn{
+    width: 100%;
+    padding-bottom: 3%;
+    border-bottom: 2px solid #002270;
+}
+.sub_btn_colapsed{
+    padding: 5% 0% 3% 0%;
+    width: 100%;
+    text-align: left;
+    color: #002270;
+    background: transparent !important;
+    border: none !important;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 2px solid #002270 !important;
+}
+.sub_btn_colapsed:focus {
+    outline: 0px dotted !important;
+    outline: 0px auto -webkit-focus-ring-color !important;
+}
+.sub_btn_colapsed p{
+    width: 50%;
+    font-family: 'Lato';
+    font-weight: 700;
+    line-height: 102%;
+    color: #002270;
+    text-transform: uppercase;
+}
+.icon_subBtn{
+    width: 12%;
+    text-align: left;
+    min-width: 75px;
+}
+.icon_subBtn img{
+    width: 60px;
+    margin-right: 1%;
+}
+.icon_subBtn_pagos{
+    width: 90%;
+    text-align: left;
+}
+.icon_subBtn_pagos img{
+    width: 180px;
+    margin-right: 1%;
+}
+.arrowDown_subBtn{
+    width: 38%;
+    text-align: right;
+}
+.arrowDown_subBtn img{
+    width: 20px;
+}
+.text_subBtn{
+    width: 100%;
+    padding: 3% 0% 3% 0%;
+}
+.text_subBtn p{
+    font-family: 'Lato';
+    font-weight: 500;
+    line-height: 120%;
+    color: #191919;
+}
+/* usos y cuidados */
+.cont-Subacordion_btn2{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.cont-Subacordion_btn2 ul{
+    width: 27%;
+    display: grid;
+    min-height: 275px;
+    grid-template-columns: 100%;
+    grid-template-rows: 70% 30%;
+    margin: 3% 5% 3% 0%;
+}
+.shape_Subacordion_btn2{
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    width: 100%;
+    height: 100%;
+    background-color: #002270;
+    opacity: 0;
+    z-index: 4;
+}
+.download_Subacordion_btn2{
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    z-index: 10;
+    opacity: 0;
+}
+.download_Subacordion_btn2 a{
+    width: 50px;
+    height: 50px;
+    background-color: #002270;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.download_arrow{
+    width: 20px;
+    transform: rotate(180deg);
+}
+.img_Subacordion_btn2{
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    z-index: 0;
+    overflow: hidden;
+}
+.img_Subacordion_btn2 img{
+    width: 100%;
+}
+.txt_Subacordion_btn2{
+    grid-column-start: 1;
+    grid-row-start: 2;
+    grid-row-end: -1;
+    padding: 5% 5% 5% 5%;
+    line-height: 120%;
+    z-index: 5;
+    font-family: 'Lato';
+    font-size: 15px;
+    font-weight: 700;
+}
+.txt_Subacordion_btn2 div{
+    color: #002270;
+}
+.line_attCliente{
+    width: 100%;
+    height: 1px;
+    background-color: #E2DFDF;
+    margin: 20px 0px 0px 0px;
+}
+.cont_intro_subBtn1 h1{
+    margin: 25px 0px 20px 0px !important;
+    color: #002270 !important;
+    text-transform: uppercase !important;
+    font-size: 1em;
+}
+.padding-card{
+    padding: 20px!important;
+}
+/* 900px */  
+@media only screen and (max-width: 900px) and (min-width: 600px) {  
+    .colapsed_container {
+        width: 100%;
+    }
+    .icon_subBtn {
+        width: 22%;
+    }
+    .sub_btn_colapsed p {
+        width: 67%;
+    }
+    .arrowDown_subBtn {
+        width: 5%;
+    }
+    .cont-Subacordion_btn2 ul {
+        width: 45%;
+    }
+    .padding-card{
+        padding: 20px!important;
+    }
+}
+  
+/* 600px */  
+@media only screen and (max-width: 600px) and (min-width: 200px) {  
+    .text-s01-attCliente p {
+        width: 91%;
+        font-size: 2.5em;
+    }
+    .txt-cont-s01-attCliente {
+        width: 80%;
+        font-size: 1.2em;
+    }
+    .colapsed_container {
+        width: 90%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .container_btn-attCliente {
+        width: 90%;
+        margin-bottom: 10%;
+        align-items: flex-start;
+    }
+    [id*="heading_"]{
+        width: auto;
+    }
+    .btn_attClient {
+        margin-top: 3%;
+        width: 100%;
+        text-align: left;
+        font-family: 'Lato';
+        font-weight: 900;
+        font-size: 1em;
+        color: #868C98;
+        padding-bottom: 11px;
+        border: none;
+        background: transparent;
+        text-align: center;
+    }
+    .body-attCliente {
+        width: 90%;
+    }
+    .sub_btn_colapsed {
+        justify-content: space-between;
+    }
+    .icon_subBtn {
+        width: 22%;
+        min-width: auto;
+    }
+    .icon_subBtn img {
+        width: 50px;
+    }
+    .sub_btn_colapsed p {
+        width: 64%;
+        font-size: 0.8em;
+    }
+    .arrowDown_subBtn {
+        width: 8%;
+    }
+    .cont-Subacordion_btn2 ul {
+        width: 45%;
+        min-height: 235px;
+    }
+    .txt_Subacordion_btn2 {
+        font-size: 12px;
+    }
+    .pagination {
+        width: 100% !important;
+    }
+    .padding-card{
+        padding: 20px!important;
+    }
+    .icon_subBtn_pagos img{
+        width: 150px;
+    }
+}
